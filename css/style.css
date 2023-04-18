@@ -1,0 +1,37 @@
+@media (min-width: 992px) {
+    .navbar {
+        padding-right: 160px;
+    }
+    .navbar-brand {
+        width: 160px;
+    }
+    .nav-item {
+        padding: 0 40px;
+    }
+}
+@media (min-width: 1200px) {
+    .nav-item {
+        padding: 0 80px;
+    }
+}
+
+.btn {
+    
+    background-color: #E5FC5E;
+        color: black;
+    
+    }
+
+    body {
+        background-image: url('../images/Group 56.png');
+        background-repeat: no-repeat;
+    
+
+      }
+
+      .logo
+      {
+        max-width: 1048px;  
+        height: auto;
+
+      }
