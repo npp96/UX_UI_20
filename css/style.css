@@ -35,3 +35,18 @@
         height: auto;
 
       }
+
+      body {
+        background-color:#E5C2C2;
+    }
+
+    .navbarTest {
+        border-bottom: solid ;
+        border-color:#E63CEA;
+        background-color: #E5C2C2;
+        font-family: 'Amiko', sans-serif;
+        font-weight: 700;
+        font-size: 15px;
+     
+    }
+    
