@@ -1,24 +1,14 @@
-@media (min-width: 992px) {
-    .navbar {
-        padding-right: 160px;
-    }
-    .navbar-brand {
-        width: 160px;
-    }
-    .nav-item {
-        padding: 0 40px;
-    }
-}
-@media (min-width: 1200px) {
-    .nav-item {
-        padding: 0 80px;
-    }
-}
+
 
 .btn {
     
     background-color: #E5FC5E;
         color: black;
+        font-family: 'Amiko', sans-serif;
+       
+        font-weight: 700;
+        font-size: 15px;
+        
     
     }
 
@@ -29,6 +19,7 @@
 
       }
 
+
       .logo
       {
         max-width: 1048px;  
@@ -37,16 +28,62 @@
       }
 
       body {
-        background-color:#E5C2C2;
+        background-color: #E5E5E5;
     }
 
     .navbarTest {
         border-bottom: solid ;
-        border-color:#E63CEA;
-        background-color: #E5C2C2;
+        border-color:whitesmoke;
+        background-color: transparent;
         font-family: 'Amiko', sans-serif;
+        color: black;
         font-weight: 700;
         font-size: 15px;
+        
      
     }
     
+    .card-body {
+        background-color:#EEEBE8;
+    
+    }
+
+    h4 {
+
+        border-style: outset;
+        border-bottom: whitesmoke;
+    }
+
+
+
+    .bgTest {
+        color: black;
+        font-family: 'Amiko', sans-serif;
+    
+    }
+
+    .h5 {
+
+        font-family: 'Amiko', sans-serif;
+       
+        font-weight: 700;
+        font-size: 15px;
+        color: black;
+    
+    }
+    .text-center {
+        font-family: 'Amiko', sans-serif;
+        font-size: 30px;
+        font-weight: 400;
+        color: black;
+    }
+    .footer {
+        border-style: outset;
+        border-bottom: whitesmoke;
+        text-align: right;
+        padding-right: 10px;
+        padding: 20px;
+        font-family: 'Amiko', sans-serif;
+        font-size: 15px;
+        color: gray;
+    }
